@@ -43,6 +43,11 @@ protected void doGet(HttpServletRequest request,HttpServletResponse response) th
 		System.out.println(idInsc);
        //el resultado lo adjunto como atributo en el request
       request.setAttribute("idInsc", idInsc);
+      //le paso tambien los parametros que se van a mostrar en el jsp de confirmacion
+      request.setAttribute("nombre", nombre);
+      request.setAttribute("telefono", celular);
+      request.setAttribute("id_curso", idCurso);
+      request.setAttribute("forma_pago", idFormaDePago);
       
        // redirecciono el control hacia la siguiente vista,
        // es decir: hacia su servlet de pre-confirmacion
