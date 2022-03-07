@@ -2,4 +2,4 @@
 
 Generador Factura: incluye desafío 1 y 2
 
-Mantenedor Cursos: incluye desafío 3: Listar Inscripciones
+Mantenedor Cursos: incluye desafío 3 (Listar Inscripciones) y desafío 4 (Resumen registro)
