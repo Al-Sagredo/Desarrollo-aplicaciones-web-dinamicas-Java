@@ -1,0 +1,1 @@
+Para que el programa funcione debes especificar las JNDI environment properties, de lo contrario arroja el error javax.naming.NoInitialContextException Need to specify class name in environment or system property, or in an application resource file: java.naming.factory.initial
