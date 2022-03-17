@@ -1,0 +1,5 @@
+El proyecto solo puede ser ejecutado desde Login.jsp, no se como ejecutarlo de otra manera.
+
+El proyecto tiene un bug que no he podido solucionar: al volver a cargar la página MostrarProductos.jsp para
+volver a modificar o eliminar un producto, ésta coloca en la tabla la nueva lista pero mantiene la lista anteriormente vista, por lo que se van acumulando filas.
+Agradecería feedback de como solucionarlo, gracias.
