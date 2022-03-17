@@ -1,0 +1,54 @@
+body * {
+	text-align:center;
+}
+
+#botones {
+	display:flex;
+	justify-content:space-around;
+	padding-top:100px;
+}
+
+a {
+	text-decoration:none;
+}
+
+.mb-3{
+	text-align:left;
+}
+
+form{
+	padding-left:100px;
+} 
+
+.input3{
+	margin-left:200px;
+}
+.input2{
+	margin-left:163px;
+}
+.input1{
+	margin-left:185px;
+}
+.input4{
+	margin-left:180px;
+}
+
+.volver{
+	margin-left:350px;
+	text-decoration:none;
+	font-size:1.2rem;
+}
+
+.link{
+	text-decoration:none;
+}
+
+.sino{
+	display:flex;
+	justify-content:space-around;
+	font-size:2rem;
+}
+
+#eliminarVolver{
+	margin-left:700px;
+}

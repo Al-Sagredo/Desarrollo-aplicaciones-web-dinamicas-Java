@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/ojdbc10-full/ojdbc10.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/ojdbc10-full/ons.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/ojdbc10-full/oraclepki.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/ojdbc10-full/orai18n.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/ojdbc10-full/osdt_cert.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/ojdbc10-full/osdt_core.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/ojdbc10-full/simplefan.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/ojdbc10-full/ucp.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/ojdbc10-full/xdb.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/ojdbc10-full/xmlparserv2.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/ojdbc10-full/xmlparserv2_sans_jaxp_services.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/nuevos_jarros/serializer.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/nuevos_jarros/taglibs-standard-compat-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/nuevos_jarros/taglibs-standard-impl-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/nuevos_jarros/taglibs-standard-jstlel-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/nuevos_jarros/taglibs-standard-spec-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/nuevos_jarros/xalan.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/nuevos_jarros/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/jarros/nuevos_jarros/xml-apis.jar"/>
+	<classpathentry kind="lib" path="D:/DESARROLLO/SERVERS/apache-tomcat-9.0.58/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
